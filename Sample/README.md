@@ -1,15 +1,3 @@
----
-page_type: sample
-languages:
-- javascript
-- csharp
-products:
-- azure-iot-central
-- azure-maps
-description: "This sample is the source code created in the Your First IoT Central App Learn module (controlling a fleet of refrigerated trucks)."
-urlFragment: "your-first-iot-central-app"
----
-
 #  Your First IoT Central App Learn module
 
 <!-- 
