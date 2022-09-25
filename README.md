@@ -1,4 +1,4 @@
-# Basic-setup-for-ioT-Central-demo
+# Setup for IoT Central demo
 
 - Demonstration for refridgerator truck app using Microsoft Azure ioT Central
 - Online Workshop for Students to introduce and demonstrate generic ways to use ioT Central, 15th August 2021
